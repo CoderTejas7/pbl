@@ -1,0 +1,26 @@
+/* Set max width for the container */
+.container {
+    max-width: 500px;
+  }
+  
+  /* Center the form vertically */
+  .row.justify-content-center {
+    min-height: calc(100vh - 56px - 87px);
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Style the form labels */
+  form label {
+    font-weight: bold;
+  }
+  
+  /* Style the submit button */
+  button[type="submit"] {
+    width: 100%;
+  }
+  
+
+
+
+  
